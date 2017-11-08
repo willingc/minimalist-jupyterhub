@@ -1,4 +1,4 @@
-name: doc-basics
+name: minimalist-guides
 type: sphinx
 conda:
     file: docs/environment.yml
