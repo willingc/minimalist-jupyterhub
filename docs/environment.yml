@@ -1,0 +1,9 @@
+name: minimal_docs
+channels:
+  - conda-forge
+dependencies:
+- python=3.5
+- sphinx>=1.5
+- sphinx_rtd_theme
+- pip:
+  - recommonmark==0.4.0
